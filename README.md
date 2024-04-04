@@ -24,7 +24,7 @@ Software development, with strong knowledge in Java and Python languages, as wel
 ![WINDOWS](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 ## Special informations
-💻I currently work as a freelance developer.
+💻I currently work as a freelance developer for a AI development company.
 
 ✏I'm currently deepening my knowledge in neural networks and databases.
 
