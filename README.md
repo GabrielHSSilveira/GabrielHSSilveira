@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!👋</h1>
 
-My name is Gabriel, I'm software developer, with strong knowledge in Java and Python languages, as well as knowledge in FRONT-END development and neural network skills. Certified in Data Center by Siemon. Electrical-electronic engineering student, technology enthusiast and passionate about programming. With a lot of desire and commitment to constant personal and professional development.
+My name is Gabriel, I'm software developer, with strong knowledge in Java and Python languages, and also knowledge in FRONT-END development and neural network skills. Certified in Data Center by Siemon. Electrical-electronic engineering student, technology enthusiast and passionate about programming. With a lot of desire and commitment to constant personal and professional development.
 
 ## Skills
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
