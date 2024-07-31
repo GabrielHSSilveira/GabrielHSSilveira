@@ -24,9 +24,9 @@ My name is Gabriel, I'm software developer, with strong knowledge in Java and Py
 ![WINDOWS](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 ## Special informations
-💻I currently work as a freelance developer for a AI development company.
+💻I currently work as a IT analist developer for a software development company.
 
-✏I'm currently deepening my knowledge in neural networks and databases.
+✏I'm currently deepening my knowledge in neural networks, databases and DevOps.
 
 🚀Always willing to work in groups, share knowledge and experiences.
 
